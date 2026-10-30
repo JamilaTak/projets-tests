@@ -9,6 +9,9 @@ from exercice_final_homey import HomeyManager, Propriete
 #   coverage report -m
 
 
+
+
+
     # Classe de tests unitaires pour le système de gestion Homey.
     # TODO: Complétez les tests en utilisant toutes les assertions apprises :
     # - assertEqual, assertTrue, assertFalse  
